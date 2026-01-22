@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "date": "02-Jan-26",
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "date": "05-Jan-26",
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "date": "07-Jan-26",
+    "date": "07-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "date": "08-Jan-26",
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "date": "02-Jan-26",
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "Anusha S",
     "source": "Keka",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "date": "02-Jan-26",
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "Anusha S",
     "source": "Keka",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "date": "02-Jan-26",
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "Anusha S",
     "source": "Keka",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "date": "05-Jan-26",
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "date": "05-Jan-26",
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "date": "05-Jan-26",
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -111,7 +111,7 @@
   },
   {
     "id": 11,
-    "date": "06-Jan-26",
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "date": "06-Jan-26",
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -133,7 +133,7 @@
   },
   {
     "id": 13,
-    "date": "06-Jan-26",
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -144,7 +144,7 @@
   },
   {
     "id": 14,
-    "date": "06-Jan-26",
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -155,7 +155,7 @@
   },
   {
     "id": 15,
-    "date": "06-Jan-26",
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -166,7 +166,7 @@
   },
   {
     "id": 16,
-    "date": "06-Jan-26",
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -177,7 +177,7 @@
   },
   {
     "id": 17,
-    "date": "07-Jan-26",
+    "date": "07-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -188,7 +188,7 @@
   },
   {
     "id": 18,
-    "date": "08-Jan-26",
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "Anusha S",
     "source": "Keka",
@@ -199,7 +199,7 @@
   },
   {
     "id": 19,
-    "date": "08-Jan-26",
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -210,7 +210,7 @@
   },
   {
     "id": 20,
-    "date": "08-Jan-26",
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Keka",
@@ -221,7 +221,370 @@
   },
   {
     "id": 21,
-    "date": "02-Jan-26",
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1528,
+    "workType": "Software Support",
+    "description": "Adobe Login Required",
+    "timeSpent": 0.33
+  },
+  {
+    "id": 22,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1529,
+    "workType": "Software Support",
+    "description": "Need SEMrush Login",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 23,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1530,
+    "workType": "Software Support",
+    "description": "POC - Enable video & audio calls for daily standup only",
+    "timeSpent": 1
+  },
+  {
+    "id": 24,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1531,
+    "workType": "Software Support",
+    "description": "Adobe login",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 25,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1532,
+    "workType": "Software Support",
+    "description": "Marketing Gmail Access",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 26,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1536,
+    "workType": "Software Support",
+    "description": "Creation of common email for alert from DataDog",
+    "timeSpent": 1
+  },
+  {
+    "id": 27,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1538,
+    "workType": "Software Support",
+    "description": "Zendesk App for Teams Alert",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 28,
+    "date": "13-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1541,
+    "workType": "Software Support",
+    "description": "mailer lite acess",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 29,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1548,
+    "workType": "Software Support",
+    "description": "MS TEAM - DATADOG APP FROM MARKETPLACE",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 30,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1549,
+    "workType": "Software Support",
+    "description": "Internet Slow",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 31,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1550,
+    "workType": "Software Support",
+    "description": "Internet is working very slow",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 32,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1551,
+    "workType": "Hardware Support",
+    "description": "mailer lite ticket",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 33,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1554,
+    "workType": "Software Support",
+    "description": "Not able to Login to system",
+    "timeSpent": 0.33
+  },
+  {
+    "id": 34,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1555,
+    "workType": "Software Support",
+    "description": "Unable to Login Due to Google Authenticator Issue",
+    "timeSpent": 0.33
+  },
+  {
+    "id": 35,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1557,
+    "workType": "Software Support",
+    "description": "OneDrive access for shared folder",
+    "timeSpent": 0
+  },
+  {
+    "id": 36,
+    "date": "20-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1557,
+    "workType": "Software Support",
+    "description": "OneDrive access for shared folder",
+    "timeSpent": 0.75
+  },
+  {
+    "id": 37,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1558,
+    "workType": "Software Support",
+    "description": "Request for New Microsoft Account Creation",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 38,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1559,
+    "workType": "Software Support",
+    "description": "Frequent disconnection onto WIFI",
+    "timeSpent": 0
+  },
+  {
+    "id": 39,
+    "date": "21-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1559,
+    "workType": "Software Support",
+    "description": "Frequent disconnection onto WIFI",
+    "timeSpent": 1
+  },
+  {
+    "id": 40,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1561,
+    "workType": "Software Support",
+    "description": "Install of Android Stuido IDE",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 41,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1564,
+    "workType": "Software Support",
+    "description": "Mail Access",
+    "timeSpent": 0
+  },
+  {
+    "id": 42,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1564,
+    "workType": "Software Support",
+    "description": "Mail Access",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 43,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1568,
+    "workType": "Software Support",
+    "description": "adobe login issue",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 44,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1569,
+    "workType": "Software Support",
+    "description": "Adobe Creative Cloud Log Out",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 45,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1570,
+    "workType": "Software Support",
+    "description": "Regarding Email",
+    "timeSpent": 2
+  },
+  {
+    "id": 46,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1572,
+    "workType": "Hardware Support",
+    "description": "mailer login issue",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 47,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1573,
+    "workType": "Software Support",
+    "description": "equest for Udemy Access / Credential",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 48,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1574,
+    "workType": "Hardware Support",
+    "description": "System Performance Issue � Request to Clear Data or Provide New Laptop",
+    "timeSpent": 1
+  },
+  {
+    "id": 49,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1575,
+    "workType": "Hardware Support",
+    "description": "mailer lite log in acess",
+    "timeSpent": 0.33
+  },
+  {
+    "id": 50,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1579,
+    "workType": "Software Support",
+    "description": "Unable to access Shared files from Sarala's folder",
+    "timeSpent": 0.67
+  },
+  {
+    "id": 51,
+    "date": "20-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1584,
+    "workType": "Hardware Support",
+    "description": "Request for Mouse",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 52,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Keka",
+    "referenceId": 1586,
+    "workType": "Software Support",
+    "description": "Email is not working",
+    "timeSpent": 1
+  },
+  {
+    "id": 53,
+    "date": "21-Jan-2026",
+    "week": "2026-W04",
+    "person": "Anusha S",
+    "source": "Keka",
+    "referenceId": 1592,
+    "workType": "Hardware Support",
+    "description": "Mouse Required",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 54,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -231,8 +594,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 22,
-    "date": "05-Jan-26",
+    "id": 55,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -242,8 +605,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 23,
-    "date": "06-Jan-26",
+    "id": 56,
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -253,8 +616,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 24,
-    "date": "07-Jan-26",
+    "id": 57,
+    "date": "07-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -264,8 +627,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 25,
-    "date": "08-Jan-26",
+    "id": 58,
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -275,8 +638,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 26,
-    "date": "09-Jan-26",
+    "id": 59,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -286,8 +649,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 27,
-    "date": "05-Jan-26",
+    "id": 60,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -297,8 +660,8 @@
     "timeSpent": 2.5
   },
   {
-    "id": 28,
-    "date": "05-Jan-26",
+    "id": 61,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -308,8 +671,8 @@
     "timeSpent": 1.25
   },
   {
-    "id": 29,
-    "date": "05-Jan-26",
+    "id": 62,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -319,8 +682,8 @@
     "timeSpent": 1.5
   },
   {
-    "id": 30,
-    "date": "06-Jan-26",
+    "id": 63,
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -330,8 +693,8 @@
     "timeSpent": 3
   },
   {
-    "id": 31,
-    "date": "06-Jan-26",
+    "id": 64,
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -341,8 +704,8 @@
     "timeSpent": 2
   },
   {
-    "id": 32,
-    "date": "06-Jan-26",
+    "id": 65,
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -352,8 +715,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 33,
-    "date": "06-Jan-26",
+    "id": 66,
+    "date": "06-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -363,8 +726,8 @@
     "timeSpent": 2
   },
   {
-    "id": 34,
-    "date": "07-Jan-26",
+    "id": 67,
+    "date": "07-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -374,8 +737,8 @@
     "timeSpent": 2.5
   },
   {
-    "id": 35,
-    "date": "07-Jan-26",
+    "id": 68,
+    "date": "07-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -385,8 +748,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 36,
-    "date": "07-Jan-26",
+    "id": 69,
+    "date": "07-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -396,8 +759,8 @@
     "timeSpent": 2
   },
   {
-    "id": 37,
-    "date": "09-Jan-26",
+    "id": 70,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -407,8 +770,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 38,
-    "date": "08-Jan-26",
+    "id": 71,
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -418,8 +781,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 39,
-    "date": "08-Jan-26",
+    "id": 72,
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -429,8 +792,8 @@
     "timeSpent": 8
   },
   {
-    "id": 40,
-    "date": "09-Jan-26",
+    "id": 73,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -440,8 +803,8 @@
     "timeSpent": 3
   },
   {
-    "id": 41,
-    "date": "09-Jan-26",
+    "id": 74,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -451,8 +814,8 @@
     "timeSpent": 1.5
   },
   {
-    "id": 42,
-    "date": "09-Jan-26",
+    "id": 75,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -462,8 +825,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 43,
-    "date": "09-Jan-26",
+    "id": 76,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -473,8 +836,8 @@
     "timeSpent": 2
   },
   {
-    "id": 44,
-    "date": "09-Jan-26",
+    "id": 77,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -484,8 +847,8 @@
     "timeSpent": 4
   },
   {
-    "id": 45,
-    "date": "02-Jan-26",
+    "id": 78,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -495,8 +858,8 @@
     "timeSpent": 1.5
   },
   {
-    "id": 46,
-    "date": "02-Jan-26",
+    "id": 79,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -506,8 +869,8 @@
     "timeSpent": 0.75
   },
   {
-    "id": 47,
-    "date": "02-Jan-26",
+    "id": 80,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -517,8 +880,8 @@
     "timeSpent": 0.75
   },
   {
-    "id": 48,
-    "date": "09-Jan-26",
+    "id": 81,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Jira",
@@ -528,8 +891,305 @@
     "timeSpent": 0.5
   },
   {
-    "id": 49,
-    "date": "02-Jan-26",
+    "id": 82,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 83,
+    "date": "09-Jan-2026",
+    "week": "2026-W02",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-229",
+    "workType": "Jira Task",
+    "description": "New Employee IT Onboarding",
+    "timeSpent": 0.83
+  },
+  {
+    "id": 84,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-226",
+    "workType": "Jira Task",
+    "description": "New Employee IT Onboarding",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 85,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-237",
+    "workType": "Jira Task",
+    "description": "Employee Exit - IT Offboarding Process-Ponvizhi",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 86,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-242",
+    "workType": "Jira Task",
+    "description": "Employee Exit - IT Offboarding Process-Sudiksha",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 87,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-234",
+    "workType": "Jira Task",
+    "description": "Employee Exit - IT Offboarding Process-Sarala",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 88,
+    "date": "13-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 89,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 90,
+    "date": "02-Jan-2026",
+    "week": "2026-W01",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-216",
+    "workType": "Jira Task",
+    "description": "Routine Task Tracking, Jira Board Reform & Reporting",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 91,
+    "date": "12-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-247",
+    "workType": "Jira Task",
+    "description": "Routine Task Tracking, Jira Board Reform & Reporting",
+    "timeSpent": 10
+  },
+  {
+    "id": 92,
+    "date": "13-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-247",
+    "workType": "Jira Task",
+    "description": "Routine Task Tracking, Jira Board Reform & Reporting",
+    "timeSpent": 10
+  },
+  {
+    "id": 93,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 94,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 95,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-240",
+    "workType": "Jira Task",
+    "description": "Employee Exit - IT Offboarding Process-Ponvizhi",
+    "timeSpent": 1.17
+  },
+  {
+    "id": 96,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-245",
+    "workType": "Jira Task",
+    "description": "Employee Exit - IT Offboarding Process-Sudiksha",
+    "timeSpent": 1.17
+  },
+  {
+    "id": 97,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-235",
+    "workType": "Jira Task",
+    "description": "Employee Exit - IT Offboarding Process-Sarala",
+    "timeSpent": 1.17
+  },
+  {
+    "id": 98,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-224",
+    "workType": "Jira Task",
+    "description": "Active Daily Task Tracking , Jira Board and Keka Ticket Tracking",
+    "timeSpent": 1.83
+  },
+  {
+    "id": 99,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-224",
+    "workType": "Jira Task",
+    "description": "Active Daily Task Tracking , Jira Board and Keka Ticket Tracking",
+    "timeSpent": 0.83
+  },
+  {
+    "id": 100,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-249",
+    "workType": "Jira Task",
+    "description": "Fortigate - Restore FortiGate SSL VPN Post Firmware Upgrade",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 101,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-250",
+    "workType": "Jira Task",
+    "description": "Fortigate - Restore FortiGate SSL VPN Post Firmware Upgrade",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 102,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-250",
+    "workType": "Jira Task",
+    "description": "Fortigate - Restore FortiGate SSL VPN Post Firmware Upgrade",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 103,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-224",
+    "workType": "Jira Task",
+    "description": "Active Daily Task Tracking , Jira Board and Keka Ticket Tracking",
+    "timeSpent": 1.5
+  },
+  {
+    "id": 104,
+    "date": "20-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.75
+  },
+  {
+    "id": 105,
+    "date": "21-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 106,
+    "date": "22-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-198",
+    "workType": "Jira Task",
+    "description": "Routine IT & Endpoint Operations",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 107,
+    "date": "20-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-251",
+    "workType": "Jira Task",
+    "description": "Fortigate - Restore FortiGate SSL VPN Post Firmware Upgrade",
+    "timeSpent": 5.5
+  },
+  {
+    "id": 108,
+    "date": "21-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Jira",
+    "referenceId": "IT-251",
+    "workType": "Jira Task",
+    "description": "Fortigate - Restore FortiGate SSL VPN Post Firmware Upgrade",
+    "timeSpent": 5.83
+  },
+  {
+    "id": 109,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -539,8 +1199,8 @@
     "timeSpent": 0.67
   },
   {
-    "id": 50,
-    "date": "02-Jan-26",
+    "id": 110,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -550,8 +1210,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 51,
-    "date": "02-Jan-26",
+    "id": 111,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -561,8 +1221,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 52,
-    "date": "05-Jan-26",
+    "id": 112,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -572,8 +1232,8 @@
     "timeSpent": 0.17
   },
   {
-    "id": 53,
-    "date": "05-Jan-26",
+    "id": 113,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -583,8 +1243,8 @@
     "timeSpent": 0.25
   },
   {
-    "id": 54,
-    "date": "05-Jan-26",
+    "id": 114,
+    "date": "05-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -594,8 +1254,8 @@
     "timeSpent": 1
   },
   {
-    "id": 55,
-    "date": "08-Jan-26",
+    "id": 115,
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -605,8 +1265,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 56,
-    "date": "08-Jan-26",
+    "id": 116,
+    "date": "08-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -616,8 +1276,8 @@
     "timeSpent": 1.5
   },
   {
-    "id": 57,
-    "date": "09-Jan-26",
+    "id": 117,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -627,8 +1287,8 @@
     "timeSpent": 0.25
   },
   {
-    "id": 58,
-    "date": "09-Jan-26",
+    "id": 118,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -638,8 +1298,8 @@
     "timeSpent": 0.5
   },
   {
-    "id": 59,
-    "date": "09-Jan-26",
+    "id": 119,
+    "date": "09-Jan-2026",
     "week": "2026-W02",
     "person": "K Vinod Kumar",
     "source": "Other",
@@ -649,14 +1309,157 @@
     "timeSpent": 0.33
   },
   {
-    "id": 60,
-    "date": "02-Jan-26",
+    "id": 120,
+    "date": "02-Jan-2026",
     "week": "2026-W01",
     "person": "K Vinod Kumar",
     "source": "Other",
     "referenceId": "Other-IT-12",
     "workType": "Vendor Support",
     "description": "Support with ZX Computers",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 121,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-13",
+    "workType": "Mailing",
+    "description": "Daniel Research",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 122,
+    "date": "14-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-14",
+    "workType": "Meeting",
+    "description": "Meeting Reagrding Procees, Ticket Handeling and mailing request of keka ticket - 1530, 1538, 1548",
+    "timeSpent": 1
+  },
+  {
+    "id": 123,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-15",
+    "workType": "Internet",
+    "description": "Ticket research and Internet issue",
+    "timeSpent": 1.5
+  },
+  {
+    "id": 124,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-16",
+    "workType": "Review",
+    "description": "Keka tickets review",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 125,
+    "date": "16-Jan-2026",
+    "week": "2026-W03",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-17",
+    "workType": "Meeting",
+    "description": "Meeting with Ivan Regardsing the current process and procedure of IT Team",
+    "timeSpent": 1.5
+  },
+  {
+    "id": 126,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-18",
+    "workType": "Mailing",
+    "description": "Form 16 and old payslip requesting",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 127,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-19",
+    "workType": "Meeting",
+    "description": "Meeting with ivan regarding - data extention , backblaze oprocess and current handeling of Website of invisai",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 128,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-20",
+    "workType": "Internet",
+    "description": "Internet issues cxhecking and guidence to Anusha",
+    "timeSpent": 0.33
+  },
+  {
+    "id": 129,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-21",
+    "workType": "Internet",
+    "description": "Connect with the ACT Support Team",
+    "timeSpent": 0.5
+  },
+  {
+    "id": 130,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-22",
+    "workType": "Meeting",
+    "description": "Meeting with Sagar - Initiaed by Ivan regarding clarification fo Number for ZOHO Books",
+    "timeSpent": 0.17
+  },
+  {
+    "id": 131,
+    "date": "19-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-23",
+    "workType": "Mailing",
+    "description": "Mail follow up for tickets,Form creation for Clocify and update for tools of Sandeep Ticket",
+    "timeSpent": 2
+  },
+  {
+    "id": 132,
+    "date": "20-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-24",
+    "workType": "Vendor Support",
+    "description": "Support for AC service in Server room",
+    "timeSpent": 0.25
+  },
+  {
+    "id": 133,
+    "date": "20-Jan-2026",
+    "week": "2026-W04",
+    "person": "K Vinod Kumar",
+    "source": "Other",
+    "referenceId": "Other-IT-25",
+    "workType": "Verification",
+    "description": "Ramya account verification for residue- Since there was no update from the Product team , we have suspended the account",
     "timeSpent": 0.5
   }
 ]
